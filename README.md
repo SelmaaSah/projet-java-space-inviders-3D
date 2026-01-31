@@ -30,7 +30,7 @@ Un remakee du célèbre jeu d'arcade **Space Invaders**, développé en **Java**
 
 ## 📂 Structure du Code
 
-Le projet est organisé selon une structure Orientée Objet :
+Le projet est organisé comme ci-dessous :
 
 * **`MainGL.java`** : Le cœur du jeu. Contient la boucle de rendu (`display`), la gestion des entrées clavier et la logique principale (collisions, score, gameloop).
 * **`GraphicalObject.java`** : Classe abstraite mère définissant tout objet affichable (position x,y,z, rotation, couleur).
